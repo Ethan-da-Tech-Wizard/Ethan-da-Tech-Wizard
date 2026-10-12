@@ -17,7 +17,7 @@ Browse the project guides for setup instructions, current capabilities, and know
 
 ## Project directory
 
-The directory includes 38 public project repositories. The upstream section credits the projects these forks build on.
+The directory includes 37 public project repositories. The upstream section credits the projects these forks build on.
 
 ### Local AI and knowledge systems
 
@@ -75,7 +75,6 @@ The directory includes 38 public project repositories. The upstream section cred
 | [Access Lab](https://github.com/Ethan-da-Tech-Wizard/enki) | An independent portfolio prototype connecting team-seat requests, cost previews, simulated billing, access, and notifications. | Local portfolio demonstration |
 | [Relayworks](https://github.com/Ethan-da-Tech-Wizard/free_intro) | A local automation showcase with workplace demos, spreadsheet and document imports, workflow examples, and illustrated guidebooks. | Local workflow demonstration |
 | [Asocial — Content Operations](https://github.com/Ethan-da-Tech-Wizard/asocial) | A planning workspace for a public-awareness media project: editorial scripts, source tracking, experiments, and review templates. | Editorial planning project |
-| [Clubbin’ Hardt](https://github.com/Ethan-da-Tech-Wizard/clubbin-hardt) | A student programming and AI club website prototype with event listings, signup UI, and a launch kit. | Independent club-website concept |
 | [Stats Lab — Dice and Sports Data](https://github.com/Ethan-da-Tech-Wizard/stats-lab) | Small programming exercises for dice simulation, sports-match ETL, tabular data, and SQLite storage. | Learning and data-analysis exercises |
 | [CodexEterna](https://github.com/Ethan-da-Tech-Wizard/CodexEterna) | A multi-source data-pipeline prototype combining generated coordinates, crypto market streams, and sports-data collection. | Data-pipeline prototype |
 | [Gambler’s Ascent — Data Seed](https://github.com/Ethan-da-Tech-Wizard/Gamblers_Ascent) | A small sports-match data seed for a planned analysis project. | Data-only project seed |
