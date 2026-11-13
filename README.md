@@ -1,3 +1,5 @@
+![Ethan Kilmer: software, systems and applied AI](assets/profile-banner.svg)
+
 # Ethan Kilmer
 
 ### Building practical software, exploring how systems work
