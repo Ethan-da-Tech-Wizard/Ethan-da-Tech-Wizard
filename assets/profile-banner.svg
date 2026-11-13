@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Ethan Kilmer — software, systems and applied AI</title>
+<desc id="d">A dark navy banner with a mint geometric network illustration.</desc>
+<rect width="1200" height="300" rx="20" fill="#101b2a"/>
+<path d="M0 245 H1200" stroke="#243b4b" stroke-width="1"/>
+<path d="M77 54 H146" stroke="#75e0c0" stroke-width="5" stroke-linecap="round"/>
+<text x="76" y="125" fill="#f3f8f7" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="700" letter-spacing="1">ETHAN KILMER</text>
+<text x="79" y="166" fill="#b8cdd2" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="3">SOFTWARE  /  SYSTEMS  /  APPLIED AI</text>
+<text x="79" y="222" fill="#75e0c0" font-family="Arial,Helvetica,sans-serif" font-size="17">Practical tools. Curious experiments. Honest results.</text>
+<g fill="none" stroke="#75e0c0" stroke-width="1.5" opacity=".75">
+<path d="M805 70 L905 108 L1000 58 L1105 114 L1072 218 L957 241 L865 194 Z"/>
+<path d="M805 70 L865 194 L957 144 L905 108 L957 241 M1000 58 L957 144 L1105 114 M957 144 L1072 218"/>
+<circle cx="957" cy="144" r="62" opacity=".35"/><circle cx="957" cy="144" r="94" opacity=".16"/>
+</g>
+<g fill="#9cf0d8"><circle cx="805" cy="70" r="5"/><circle cx="905" cy="108" r="5"/><circle cx="1000" cy="58" r="5"/><circle cx="1105" cy="114" r="5"/><circle cx="1072" cy="218" r="5"/><circle cx="957" cy="241" r="5"/><circle cx="865" cy="194" r="5"/><circle cx="957" cy="144" r="7"/></g>
+</svg>
