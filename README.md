@@ -1,3 +1,10 @@
+<!-- ==============================================================================
+# Program: README.md
+# Programmer: Ethan-da-Tech-Wizard
+# Last Modified: November 18, 2026
+# Purpose: Central GitHub profile README presenting senior software engineer portfolio, systems architecture principles, featured open-source tools, and technical methodology.
+============================================================================== -->
+
 ![Ethan Kilmer: software, systems and applied AI](assets/profile-banner.svg)
 
 # Ethan Kilmer

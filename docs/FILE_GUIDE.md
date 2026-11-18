@@ -1,3 +1,10 @@
+<!-- ==============================================================================
+# Program: FILE_GUIDE.md
+# Programmer: Ethan-da-Tech-Wizard
+# Last Modified: November 18, 2026
+# Purpose: Maintains an index and structural overview of tracked assets and configuration files within the GitHub user profile repository.
+============================================================================== -->
+
 # Profile repository file guide
 
 | File | Purpose |
