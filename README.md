@@ -6,8 +6,10 @@ Self-taught, early in my career. I build Linux systems tooling and safety checks
 
 | Project | What it is | Tests (own tests, fresh clone) |
 | --- | --- | --- |
+| [twu-public](https://github.com/Ethan-da-Tech-Wizard/twu-public) | 924 sanitized, open-source systems tools: Linux administration, systemd governors, diagnostic harnesses, and local AI agent workflows. | 924 files, independent security audit PASS (0 leaks), 2026-11-21 |
 | [release-kit](https://github.com/Ethan-da-Tech-Wizard/release-kit) | Scrub private values out of a folder, verify with an independent gate, and run tests in an isolated runner. Python standard library only. | 236 pass, Python 3.9 on macOS, 2026-11-21 |
 | [agent-guardrails](https://github.com/Ethan-da-Tech-Wizard/agent-guardrails) | A stop latch, write guards and a secret-scan suite for running AI coding agents safely. Python standard library only. | 13 / 57 / 125 pass (stop_latch / write_guards / secret_scan_suite), Python 3.9 on macOS, 2026-11-21 |
+| [mbp14-linux-power](https://github.com/Ethan-da-Tech-Wizard/mbp14-linux-power) | Linux CPU energy performance profiles, RAPL energy accounting, and thermal stability governors for MacBook Pro 14. | 27 files, verified on hardware, 2026-11-21 |
 
 "Pass" means the repository's own tests, written with AI agents under my direction. It is not an independent audit. A passing test run applies only to the cases and the machine tested.
 
