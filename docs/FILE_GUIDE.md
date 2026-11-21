@@ -9,7 +9,7 @@
 
 | File | Purpose |
 | --- | --- |
-| [README.md](../README.md) | Systems & DevSecOps Engineer GitHub profile: executive summary, core architecture highlights, skills matrix, systems topology, verified engineering metrics, and public repository showcase. |
+| [README.md](../README.md) | GitHub profile: AI-assistance disclosure, featured projects with their own test counts, incidents and recoveries, dated and scoped numbers, and contact. |
 | [LICENSE](../LICENSE) | MIT permission and copyright notice for the original profile text. Linked projects retain their own terms. |
 | [.gitignore](../.gitignore) | Excludes common local environment files, credentials, private keys, and editor backups from ordinary Git staging. |
 | [docs/FILE_GUIDE.md](FILE_GUIDE.md) | Describes every tracked file in this profile repository. |
