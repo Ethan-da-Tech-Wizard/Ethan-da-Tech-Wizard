@@ -35,7 +35,7 @@ Large projects fail in many small ways. What I care about is noticing quickly, f
 
 ## How I work
 
-AI coding agents wrote most of the code in all of these, under my direction and verification. I decide what gets built, set the acceptance rules, re-run the checks myself, and decide what I am willing to claim. When a check turns out to miss something, I fix it and record it. Most of my repositories are prototypes.
+I am the programmer on all of these. I design them, write the specifications and acceptance tests, direct AI coding agents that generate much of the code, review every change, re-run the checks myself, and decide what I am willing to claim. I do not claim I typed it all by hand. When a check turns out to miss something, I fix it and record it. Most of my repositories are prototypes.
 
 ## By the numbers
 
